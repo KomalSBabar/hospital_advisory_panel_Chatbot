@@ -12,19 +12,19 @@
     <style>
       li{
         background-color: white;
-    border-radius: 20px;
-    margin: 2px;
+        border-radius: 20px;
+        margin: 2px;
       }
 
       .message-you{
         background-color: #e9f1fc;
         border-radius: 20px;
-    margin: 2px;
+        margin: 2px;
       }
 
       button{
         border-radius: 24px;
-    margin-bottom: 7px;
+        margin-bottom: 7px;
       }
 
 
